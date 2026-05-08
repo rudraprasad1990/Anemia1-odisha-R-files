@@ -187,7 +187,7 @@ df <- data1
     )
   
 # Run the function on your dataset
-# df_clean <- clean_household_survey(df)
+df_clean <- clean_household_survey(df)
 
 # View a summary of the cleaned dataset
 # summary(df_clean)
