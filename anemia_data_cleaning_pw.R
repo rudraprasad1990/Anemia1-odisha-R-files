@@ -1,5 +1,5 @@
 ################################################################
-#Pregnant women data
+#Pregnant women data cleaning
 ################################################################
 #all PW data
 data_pw<-data1[data1$beneficiary_group_selected == 2 ,1:459]
